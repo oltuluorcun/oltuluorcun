@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Orcun Oltulu
-- 👀 I’m interested in Statistical Learning and Parallel Computing
+- 👀 I’m interested in Data Science and Parallel Computing
 - 🌱 I’m currently learning Image Processing
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me oltulu@metu.edu.tr
